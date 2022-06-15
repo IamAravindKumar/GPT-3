@@ -2,8 +2,7 @@
 
 ![Screenshot of GPT-3](https://github.com/IamAravindKumar/GPT-3/blob/master/src/assets/banner_image.png "Screenshot of GPT-3")
 
-GPT-3 is build based on the Figma design attached below. 
-Check out the [GPT-3 Figma Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15).
+GPT-3 is build based on the following Figma design [GPT-3 Figma Design](https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15).
 
 # Technologies Used
 - HTML5
