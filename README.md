@@ -1,6 +1,6 @@
 # GPT-3 — A Fully Responsive Modern UI/UX Website build using React JS 
 
-![Screenshot of GPT-3](https://p192.p3.n0.cdn.getcloudapp.com/items/rRu7OBlg/Screen%20Shot%202020-08-27%20at%2012.53.56%20PM.png?v=a47c8028358bc533908f0b9545f14087 "kendoka plus my little pony logo")
+![Screenshot of GPT-3](https://github.com/IamAravindKumar/GPT-3/blob/master/src/assets/banner_image.png)
 
 GPT-3 is build based on the Figma design attached below. 
 Check out the [Figma UX Design](https://www.figma.com/file/lz9l LpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15).
@@ -11,14 +11,14 @@ Check out the [Figma UX Design](https://www.figma.com/file/lz9l LpFHMxHm2odnwM3R
 - React JS      
 
 # Concepts Used
-- HTML5
-- CSS3
-- React JS  
-# Getting started
+- React functional components
+- CSS BEM Model
+- Responsive Web Design  
+
+# Getting Started with GPT-3 Website
 - clone app
 - npm install
 - npm start
-# Getting Started with GPT-3 Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
